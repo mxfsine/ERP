@@ -10,12 +10,11 @@ import java.io.InputStreamReader;
 * 类修改者
 * 修改日期
 * 修改说明
-* <p>Title: GetMacAddressUtil.java</p>
-* <p>Description:福产流通科技</p>
+* <p>Description:mxf</p>
 * <p>Copyright: Copyright (c) 2006</p>
-* <p>Company:福产流通科技有限公司</p>
-* @author lsy 756514656@qq.com
-* @date 2013-5-2 下午1:48:52
+* <p>Company:mxf</p>
+* @author dzxy 912031125@qq.com
+* @date 2017-5-2 下午1:48:52
 * @version V1.0
 */
 

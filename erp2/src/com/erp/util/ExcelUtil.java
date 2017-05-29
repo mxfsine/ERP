@@ -31,7 +31,7 @@ import org.apache.poi.ss.util.CellRangeAddressList;
 * <p>Title: ExcelUtil.java</p>
 * <p>Description:excel导入导出类</p>
 * <p>Copyright: Copyright (c) 2006</p>
-* @date 2013-6-28 上午9:08:33
+* @date 2017-6-28 上午9:08:33
 * @version V1.0
 */
 

@@ -32,11 +32,11 @@ import com.opensymphony.xwork2.ModelDriven;
  * 修改日期
  * 修改说明
  * <p>Title: PermissionAssignmentAction.java</p>
- * <p>Description:福产流通科技</p>
+ * <p>Description:mxf</p>
  * <p>Copyright: Copyright (c) 2006</p>
- * <p>Company:福产流通科技有限公司</p>
- * @author lsy 756514656@qq.com
- * @date 2013-5-17 下午3:16:55
+ * <p>Company:mxf</p>
+ * @author mxf 912031125@qq.com
+ * @date 2017-5-17 下午3:16:55
  * @version V1.0
  */
 @Namespace("/permission")

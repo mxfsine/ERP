@@ -11,7 +11,7 @@ public @interface ExcelVOAttribute {
 	/**  
 	* 函数功能说明
 	* Administrator修改者名字
-	* 2013-6-28修改日期
+	* 2017-5-28修改日期
 	* 修改内容
 	* @Title: name 
 	* @Description: TODO:列名
@@ -24,7 +24,7 @@ public @interface ExcelVOAttribute {
 	/**  
 	* 函数功能说明
 	* Administrator修改者名字
-	* 2013-6-28修改日期
+	* 2017-5-28修改日期
 	* 修改内容
 	* @Title: column 
 	* @Description: TODO:列号 
@@ -37,7 +37,7 @@ public @interface ExcelVOAttribute {
 	/**  
 	* 函数功能说明 
 	* Administrator修改者名字
-	* 2013-6-28修改日期
+	* 2017-5-28修改日期
 	* 修改内容
 	* @Title: prompt 
 	* @Description: TODO:提示信息默认空
@@ -50,7 +50,7 @@ public @interface ExcelVOAttribute {
 	/**  
 	* 函数功能说明 
 	* Administrator修改者名字
-	* 2013-6-28修改日期
+	* 2017-5-28修改日期
 	* 修改内容
 	* @Title: combo 
 	* @Description: TODO:限定下拉框
@@ -63,7 +63,7 @@ public @interface ExcelVOAttribute {
 	/**  
 	* 函数功能说明 
 	* Administrator修改者名字
-	* 2013-6-28修改日期
+	* 2017-5-28修改日期
 	* 修改内容
 	* @Title: isExport 
 	* @Description: TODO:是否导出默认true
